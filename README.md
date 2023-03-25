@@ -1,0 +1,1 @@
+Hello, this is the readme for the recipes project. In this project I am going to build a basic recipe website. The site will consist of a main index page and links to a few recipes.
