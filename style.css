@@ -1,0 +1,21 @@
+* {
+    font-family: Verdana, Helvetica, sans-serif;
+}
+
+img {
+    height: auto;
+    width: 350px;
+}
+
+.center {
+    text-align: center;
+}
+
+.link-font {
+    font-size: 20px;
+}
+
+.thumbnail {
+    height: auto;
+    width: 200px;
+}
